@@ -1,0 +1,281 @@
+/* External CSS */
+body {
+    margin: 100px;
+    margin-right: 100px;
+    background-color: rgb(253, 253, 241);
+}
+
+h3 {
+    background-color: chocolate;
+    width: 110px;
+}
+
+.data {
+    padding: 15px 15px 15px 50px;
+    margin: 10px 10px 10px 200px;
+    height: 200px;
+    width: 450px;
+    font-size: 25px;
+    box-shadow: 10px 13px rgba(221, 221, 140, 0.6);
+    color: rgb(126, 93, 53);
+    background-color: rgba(236, 236, 148, 0.6);
+    border-radius: 10px;
+
+}
+
+.halo {
+    /* background-color: rgb(165, 165, 100); */
+    padding: 1px 90px;
+    margin: 10px 10px 10px 170px;
+    width: 90X;
+}
+
+.ekskul {
+    padding: 1px 50px;
+    margin: 10px 10px 10px 100px;
+    width: 170px;
+    height:50PX;
+    font-size: 25px;
+    max-height: 25px;
+    /* background-color: rgb(236, 236, 168); */
+}
+    
+.PENDIDIKAN { 
+    /* background-color: rgb(126, 126, 45); */
+    padding: 5px 70px;
+    margin: 5px;
+    width: 200px;
+    font-size: 25px;
+}
+
+.inspi {
+    /* background-color: rgb(236, 236, 168); */
+    padding: 10px 70px;
+    margin: 10px 10px 10px 10px;
+    width: 90px;
+    font-size: 25px;
+    color: rgb(97, 92, 25);
+}
+   
+.tahun {
+    padding: 5px 2px;
+    margin: 10px 10px 10px 400px;
+    height: 189px;
+    width: 175px;
+    min-height: 10%;
+    max-height: 10%;
+    box-shadow: 10px 13px rgba(173, 173, 109, 0.6);
+    color: rgb(92, 72, 50);
+    background-color: rgba(207, 207, 98, 0.6);
+    border-radius: 10px;
+
+}
+
+.foto {
+    width: 200px;
+    height: 250px;
+    background-color: cornsilk;
+    border-radius: 100%;
+    margin: auto;
+
+
+
+}
+
+.ug {
+    width: 200px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.data {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.salam {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.PENDIDIKAN {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ekskul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.inspi {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.isiinspi {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tahun {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.inspidua {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name {
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-sersif;
+    text-align: center;
+}
+.PENDIDIKAN {
+    /* background-color:rgb(236, 236, 168); */
+    padding: 10px 70px;
+    max-width: 100%;
+    max-height: 100%;
+    font-size: 25;
+    text-align: center;
+    margin: 10px 10px 10px 320px;
+    color: rgb(204, 200, 152);
+}
+
+.name {
+    background-color: rgb(240, 240, 214);
+    max-width: 25%;
+    width: 50px;
+    max-height: 150px;
+    height: 90px;
+    min-width: 75%;
+    width: 10%;
+    min-height: 50px;
+    /* typography */
+    font-size: 30px;
+    font-weight: 200px;
+    line-height: 90px;
+    margin: 10px 10px 10px 180px;
+}
+
+/* .foto [
+    text-align: center;
+]
+
+.circle>.gambar-saya {
+    width: 200px;
+    height: 200px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: tan;
+    border-radius: 50%;
+    margin: auto;
+    border: 1px dotted cornsilk;
+} */
+
+/* .jenis-warna {
+    font-size: 100px;
+    font-weight: 700;
+    color: tan; 
+    color: wheat;
+    color: white; 
+    
+} */
+
+:root {
+    --warnacream: burlywood;
+    --warnalightkuning: lightgoldenrodyellow;
+    --warnacoklatmuda: cornsilk;
+    --warnacoklatmuda: bisque;
+}
+
+.salam {
+    padding: 5px 40px 5px 10px;
+    max-width: 90%;
+    max-height: 50%px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+    margin:10px 10px 10px 50px;
+    color: rgb(94, 78, 59);
+    border-radius: 10px;
+    box-shadow: 10px 13px rgba(218, 218, 186, 0.6);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(255, 255, 187, 0.6);
+    
+}
+
+.inspidua {
+    margin: 10px 10px 10px 90px;
+    box-shadow: 10px 13px rgba(230, 230, 163, 0.6);
+    color: rgb(206, 189, 169);
+    background-color: rgba(240, 240, 191, 0.6);
+    border-radius: 10px;
+    padding: 10px 30px;
+
+}
+
+.inspitiga {
+    margin: 10px 10px 10px 150px;
+    box-shadow: 10px 13px rgba(230, 230, 163, 0.6);
+    color: rgb(206, 189, 169);
+    background-color: rgba(240, 240, 191, 0.6);
+    border-radius: 10px;
+
+}   
+
+.eks {
+    padding: 10px 65px;
+    margin: 10px 10px 10px 3px;
+    width: 400PX;
+    height:95px;
+    font-size: 15px;
+    box-shadow: 10px 13px rgba(177, 177, 99, 0.6);
+    color: rgb(161, 115, 62);
+    background-color: rgba(201, 201, 109, 0.6);
+    border-radius: 10px;
+}
+
+.halo {
+    /* background-color: rgb(228, 228, 173); */
+    max-width: 90px;
+    width: 15px;
+    max-height: 90px;
+    height: 90px;
+    min-width: 8%;
+    width: 8%;
+    min-height: 30px;
+    /* typography */
+    font-size: 27px;
+    font-weight: 198px;
+    line-height: 95px;
+    margin: 10px 10px 10px 50px
+}
+
+.inspiempat {
+    margin: 10px 10px 10px 150px;
+    width: 300px;
+    box-shadow: 10px 13px rgba(230, 230, 163, 0.6);
+    color: rgb(206, 189, 169);
+    background-color: rgba(175, 175, 122, 0.6);
+    border-radius: 10px;
+}
+
+.isiinspi {
+    margin: 10px 10px 10px 100px;
+    width: 400px;
+    box-shadow: 10px 13px rgba(173, 173, 116, 0.6);
+    color: rgb(122, 66, 2);
+    background-color: rgba(194, 194, 55, 0.6);
+    border-radius: 10px;
+    
+}
+
+.datadua {
+    /* background-color: darkkhaki; */
+    padding: 5px 70px;
+    margin: 10px 10px 10px 300px;
+    width: 200px;
+    font-size: 25px;
+}
